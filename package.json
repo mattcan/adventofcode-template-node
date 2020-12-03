@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "Advent of Code Node project template",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "tap days/*.test.js"
+  },
+  "author": "You",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^11.8.0"
+  },
+  "devDependencies": {
+    "standard": "^16.0.3",
+    "tap": "^14.11.0"
+  }
+}
